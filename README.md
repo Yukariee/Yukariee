@@ -74,8 +74,6 @@ An early BSIT web activity and my first experience publishing a project as a liv
 
 - **Arduino light-sensing alert** — a small circuit using an LDR, LED, and buzzer to explore sensor readings and conditional logic.
 - **STEM Club research** — a group research study about STEM students' interests and needs for a more responsive STEM club.
-- **ConnectGlobal** — a school business/pitch concept for a global SIM card; a concept and presentation project, not a shipped product.
-- **Basa at Unawa** — an educational concept focused on reading comprehension.
 
 </details>
 
