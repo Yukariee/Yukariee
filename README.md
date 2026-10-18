@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://yukariee.github.io/portfolio/">Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://basa-five.vercel.app/">BASA</a> &nbsp;|&nbsp;
   <a href="https://yukariee.github.io/sip-navigation/">SIP Navigation</a> &nbsp;|&nbsp;
   <a href="https://github.com/Yukariee?tab=repositories">All repositories</a>
 </p>
