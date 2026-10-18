@@ -31,7 +31,7 @@ A library management system built for our NSTP community library project. It hel
 
 **Stack:** Web app · database · Vercel
 
-**[Live demo](ADD_YOUR_BASA_VERCEL_URL_HERE)** · **[Source code](ADD_YOUR_BASA_REPOSITORY_URL_HERE)**
+**[Live demo](https://basa-five.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
