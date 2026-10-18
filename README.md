@@ -22,8 +22,7 @@ A library management system for the Bagong Silang Community Library, built for o
 
 It's the first thing I've built with a real database behind it, and the first thing I've deployed for people who will use it. That pushed me to think about simple screens and clear steps, not just working code.
 
-**Status:** in active development &nbsp;|&nbsp; **Built with:** React, Vite, Supabase, Vercel
-**[Live demo](https://basa-five.vercel.app/)** &nbsp;|&nbsp; Source: private repository for now
+**Status:** in active development &nbsp;|&nbsp; **Built with:** React, Vite, Supabase, Vercel |&nbsp; Source: private repository for now
 
 ### SIP Navigation
 **Recognized with Best in SIP**
