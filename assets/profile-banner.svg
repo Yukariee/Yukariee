@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Yukariee — building, learning, figuring things out</title>
+  <desc id="desc">A minimal dark banner with a custom Y mark, subtle grid, and green accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111318"/>
+      <stop offset="1" stop-color="#191e22"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#ffffff" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <circle cx="1010" cy="68" r="155" fill="#a3e635" opacity=".045"/>
+  <circle cx="1010" cy="68" r="105" fill="none" stroke="#a3e635" stroke-opacity=".15"/>
+  <path d="M0 248 H1200" stroke="#a3e635" stroke-opacity=".5"/>
+  <rect x="64" y="60" width="54" height="54" rx="14" fill="#a3e635"/>
+  <path d="M78 74 L91 91 L104 74 M91 91 V101" fill="none" stroke="#111318" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="164" fill="#f4f4f5" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="-1">Yukariee</text>
+  <text x="66" y="198" fill="#c5c9cc" font-family="Segoe UI, Arial, sans-serif" font-size="18">building, learning, figuring things out.</text>
+  <text x="66" y="229" fill="#a3e635" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2">BSIT / WEB / DATABASES / EXPERIMENTS</text>
+  <text x="1110" y="224" text-anchor="end" fill="#d8dcdf" opacity=".55" font-family="Consolas, monospace" font-size="13">PROFILE_001</text>
+</svg>
